@@ -1,0 +1,74 @@
+html {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Sonsie One', cursive;
+}
+.about_form{
+    position: relative;
+}
+.product_1 {
+    background: url(https://png.pngtree.com/png-clipart/20190618/original/pngtree-blue-lady-bag-ladies-shoulder-bag-illustration-ladies-handbag-hand-painted-png-image_3900632.jpg);
+    width: 28rem;
+    height: 25rem;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box_1 {
+    background-color: red;
+    width: 2.9rem;
+    height: 1.7rem;
+    position: absolute;
+    top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.oner_form{
+    background-color: pink;
+    width: 28rem;
+    height: 17rem;
+    position: absolute;
+    top: 25.5rem;
+}
+.form{
+    font-size: 13px;
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+.rim{
+    margin-top: 2rem;
+    width: 24rem;
+}
+.form_size{
+    display: flex;
+    align-items: center;
+    margin-left: 2rem;
+}
+.down_money{
+    position: relative;
+    color: rgb(104, 101, 101);
+}
+.oder{
+    position: absolute;
+    width: 5rem;
+    top: 12.7rem;
+}
+.up_money{
+    margin-left: 0.5rem;
+}
+.fa-cart-shopping{
+    color: silver;
+}
+.market{
+    margin-left: 10rem;
+}
+.cointainer{
+    display: flex;
+    align-items: center;
+    margin-top: 1.3rem;
+}
+.fa-heart{
+    color: red;
+}
